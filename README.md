@@ -1,4 +1,6 @@
 # Debt Collector
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTGTGamer%2Fdebt-collector.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTGTGamer%2Fdebt-collector?ref=badge_shield)
+
 
 An action for keeping track of technical debt as it is created
 
@@ -81,3 +83,7 @@ Helps track the progress of this project
 - Add comment debt finding (//DEBT, #DEBT, /\*\* DEBT)
 - Estimate descriptor. It would be nice (and scary) to see some relative level of effort pile up with the debt
 - Aggregation of technical debt metrics and support for badging on repo, similar to Code Coverage badging, to enable keeping track of technical debt versus maintainable code at a glance
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTGTGamer%2Fdebt-collector.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTGTGamer%2Fdebt-collector?ref=badge_large)
