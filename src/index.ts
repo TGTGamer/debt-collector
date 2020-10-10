@@ -13,8 +13,6 @@ type options = {
 
 /**
  * Runs the action (root of action)
- * !TODO: Confirm this move worked before using
- * TODO: cleanup
  * @author teepsdonnelly, TGTGamer
  * @since 2.0.0
  */
